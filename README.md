@@ -21,6 +21,3 @@ v18.16.0
 
 <img src="./public/shopping-house-app.png" />
 
-## Comming Soon
-
-- Auth
